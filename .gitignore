@@ -1,0 +1,8 @@
+node_modules/
+_tmp/
+tmp/
+.tmp/
+tmp_files/
+.idea
+.DS_Store
+package-lock.jsons
