@@ -1,0 +1,12 @@
+{
+  "name": "unitcluster-api-core",
+  "version": "1.0.0",
+  "description": "unitcluster core package",
+  "main": "index.js",
+  "dependencies": {
+    "stdout-stream": "^1.4.1"
+  },
+  "devDependencies": {},
+  "author": "Sasha Zmts",
+  "license": "MIT"
+}
