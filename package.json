@@ -4,8 +4,9 @@
   "description": "unitcluster core package",
   "main": "index.js",
   "dependencies": {
-    "stdout-stream": "^1.4.1",
-    "stack-trace": "0.0.10"
+    "stdout-stream": "1.4.1",
+    "stack-trace": "0.0.10",
+    "chalk": "4.0.0"
   },
   "devDependencies": {},
   "author": "Sasha Zmts",
